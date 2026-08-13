@@ -25,8 +25,9 @@ The **UVA DP Lab** is a research group in the **Department of Computer Science a
 
 ## Repositories
 
-- [`Public`](https://github.com/DPLab-UVA/Public): shared public-facing resources
-- [`/.github`](https://github.com/DPLab-UVA/.github): organization profile and defaults
+Public projects and software releases are listed on the
+[DPLab-UVA organization page](https://github.com/DPLab-UVA). Some active
+research repositories remain private while under development.
 
 ## Contact
 
